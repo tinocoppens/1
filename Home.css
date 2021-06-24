@@ -1,0 +1,26 @@
+.u-section-1 {
+  background-image: url("images/wp6610344.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-size: 1.25rem;
+  letter-spacing: 1px;
+  background-image: none;
+  font-weight: 600;
+  align-self: center;
+  text-transform: none;
+  margin: 60px auto;
+  padding: 18px 87px 18px 86px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 448px;
+  }
+}
